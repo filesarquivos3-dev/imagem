@@ -8,7 +8,7 @@ PASTA_IMAGENS = Path("imagens")
 MANIFEST = Path("manifest.json")
 
 USUARIO = "filesarquivos3-dev"
-REPOSITORIO = "imagens"
+REPOSITORIO = "imagem"
 BRANCH = "main"
 
 EXTENSOES = {".jpg", ".jpeg", ".png", ".webp"}
